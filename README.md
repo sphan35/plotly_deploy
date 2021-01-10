@@ -1,6 +1,6 @@
 # plotly_deploy
 
-# Git Hub Page Link
+# Github Page Link
 
 - https://sphan35.github.io/plotly_deploy/
 
